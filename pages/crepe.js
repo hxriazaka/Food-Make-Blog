@@ -42,7 +42,7 @@ export default function Sushi() {
                                 <li>4 (1 ounce) squares bittersweet chocolate</li> 
                                 <li>½ cup butter or margarine</li> 
                                 <li>1 ¼ cups nonfat evaporated milk</li> 
-                                <li>2 ½ cups confectioners' sugar</li> 
+                                <li>2 ½ cups confectioners sugar</li> 
                             </div>
                             <h1>Directions</h1>
                                 <h3>Step 1</h3>
