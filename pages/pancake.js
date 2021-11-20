@@ -43,9 +43,9 @@ export default function Sushi() {
                                 <h3>Step 1</h3>
                                 <p>In a large bowl, combine flour, sugar, baking powder, baking soda, and salt. In a separate bowl, beat together buttermilk, milk, eggs and melted butter. Keep the two mixtures separate until you are ready to cook.</p> 
                                 <h3>Step 2</h3>
-                                <p>Heat a lightly oiled griddle or frying pan over medium high heat. You can flick water across the surface and if it beads up and sizzles, it's ready!</p>
+                                <p>Heat a lightly oiled griddle or frying pan over medium high heat. You can flick water across the surface and if it beads up and sizzles, its ready!</p>
                                 <h3>Step 3</h3>
-                                <p>Pour the wet mixture into the dry mixture, using a wooden spoon or fork to blend. Stir until it's just blended together. Do not over stir! Pour or scoop the batter onto the griddle, using approximately 1/2 cup for each pancake. Brown on both sides and serve hot.</p>   
+                                <p>Pour the wet mixture into the dry mixture, using a wooden spoon or fork to blend. Stir until its just blended together. Do not over stir! Pour or scoop the batter onto the griddle, using approximately 1/2 cup for each pancake. Brown on both sides and serve hot.</p>   
                         </div>                                     
                     </div>
                     <div className="col-md-6">

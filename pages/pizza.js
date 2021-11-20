@@ -30,7 +30,7 @@ export default function Pizza() {
                             <h1>Ingredients</h1>
                             <div>
                                 <h3>Contadina(R) Quick Pizza Sauce :</h3>
-                                <li>½ (12 ounce) can CONTADINA® Tomato Paste</li>
+                                <li>½ (12 ounce) can CONTADINA Tomato Paste</li>
                                 <li>1 teaspoon dried oregano, crushed</li>
                                 <li>1 teaspoon dried basil, crushed</li>
                                 <li>½ teaspoon garlic powder</li>
@@ -42,7 +42,7 @@ export default function Pizza() {
                             <div>
                                 <h3>Easy Pizza Crust :</h3>
                                 <li>3 ¼ cups all-purpose flour, or more as needed</li>
-                                <li>2 (.25 ounce) envelopes FLEISCHMANN'S® Pizza Crust Yeast or RapidRise® Yeast</li>
+                                <li>2 (.25 ounce) envelopes FLEISCHMANNS® Pizza Crust Yeast or RapidRise® Yeast</li>
                                 <li>1 tablespoon sugar</li>
                                 <li>1 ½ teaspoons salt</li>
                                 <li>1 ⅓ cups very warm water (120 degrees F to 130 degrees F)</li>
@@ -50,7 +50,7 @@ export default function Pizza() {
                             </div>
                             <div>
                                 <h3>Toppings :</h3>
-                                <li>1 (6 ounce) package HORMEL® Pepperoni</li>
+                                <li>1 (6 ounce) package HORMEL Pepperoni</li>
                                 <li>1 cup shredded mozzarella cheese, or more to taste</li>  
                             </div>
                             <h1>Directions</h1>
@@ -63,7 +63,7 @@ export default function Pizza() {
                                      Gradually add enough remaining flour slowly, until a soft, sticky dough ball is formed.</p>
                                 <h3>Step 3</h3>
                                 <p>Knead for about 4 minutes, on a floured surface, until dough is smooth and elastic. Add more flour, 
-                                    if needed. (If using RapidRise® Yeast, let dough rest, covered, for 10 minutes.)</p>
+                                    if needed. (If using RapidRise Yeast, let dough rest, covered, for 10 minutes.)</p>
                                 <h3>Step 4</h3>
                                 <p>Divide dough in half. Pat each half (with floured hands) into a 12-inch greased pizza pan OR roll dough to fit pans.</p>
                                 <h3>Step 5</h3>

@@ -41,7 +41,7 @@ export default function Sushi() {
                                 <h3>Step 2</h3>
                                 <p>Place chicken in a roasting pan, and season generously inside and out with salt and pepper.
                                      Sprinkle inside and out with onion powder. Place 3 tablespoons margarine in the chicken cavity
-                                    . Arrange dollops of the remaining margarine around the chicken's exterior. Cut the celery into 3 or 4 pieces,
+                                    . Arrange dollops of the remaining margarine around the chickens exterior. Cut the celery into 3 or 4 pieces,
                                      and place in the chicken cavity.</p>
                                 <h3>Step 3</h3>
                                 <p>Bake uncovered 1 hour and 15 minutes in the preheated oven, to a minimum internal temperature of 180 degrees F (82 degrees C).

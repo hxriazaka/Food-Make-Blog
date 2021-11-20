@@ -2,6 +2,7 @@ import '../styles/globals.css'
 import Layout from '../components/layout'
 import Head from 'next/head'
 import "swiper/css/bundle";
+import Script from 'next/script'
 
 function MyApp({ Component, pageProps }) {
   return (

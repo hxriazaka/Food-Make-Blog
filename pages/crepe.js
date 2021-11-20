@@ -50,7 +50,7 @@ export default function Sushi() {
                                 <h3>Step 2</h3>
                                 <p>Filling: beat pudding mix, instant coffee and whipping cream together with an electric mixer until the mixture is thick.</p>
                                 <h3>Step 3</h3>
-                                <p>Sauce: in a small saucepan, melt the chocolate, butter, evaporated milk, and confectioners' sugar together until the mixture is a little thick.</p>   
+                                <p>Sauce: in a small saucepan, melt the chocolate, butter, evaporated milk, and confectioners sugar together until the mixture is a little thick.</p>   
                                 <h3>Step3</h3>
                                 <p>Crepes: heat a small skillet (or crepe pan) to a high temperature. Place a small amount of batter into the skillet 
                                     and swirl it around until the batter covers the bottom of the pan. When the crepe is slightly browned flip the crepe over and 
