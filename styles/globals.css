@@ -1,16 +1,389 @@
-html,
-body {
+
+nav{
+  background-color: greenyellow;
+  height: 10vh;
+  box-shadow: 3px 3px 13px 2px rgb(0 0 0 / 50%);
+}
+.nav-link {
+  color: black !important;
+  cursor: pointer;
+  border: 2px solid greenyellow;
+  margin: 0 50px;
+  font-size: 20px;
+  height: 10vh;
+  padding-top: 40px;
+}
+.navbar-toggler:focus{
+  box-shadow: none;
+}
+.navbar-brand{
+  color: black;
+  font-weight: 900;
+  text-transform: uppercase;
+  font-size: 30px;
+  margin-right: 0 !important;
+  font-family: 'Yuji Mai', serif;
+}
+.navbar-brand:hover{
+  color: black;
+}
+a.nav-link:hover{
+  color: black;
+  border-bottom: 2px solid  black;
+}
+body{
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  background-color: black;
+  font-family: 'Poppins', sans-serif;
+  overflow-x: hidden;
+}
+.bg-1 h1{
+  color: white;
+  text-align: center;
+  position: relative;
+  font-size: 80px;
+  z-index: 6;
+  font-weight: bold;
+  text-shadow: 3px 3px 13px 2px rgb(0 0 0 / 50%);
+}
+.bg-1-1{
+  position: absolute;
+  margin-top: 300px;
+  align-content: center;
+  justify-content: center;
+  width: 100%;
+}
+.bg-1-btn{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+.bg-1-btn button{
+  padding: 15px 60px;
+  background-color: greenyellow;
+  border-radius: 25px;
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  z-index: 6;
+  font-weight: bold;
+}
+.bg-1-btn button:hover{
+  background-color: rgb(153, 255, 0);
+}
+.blur{
+  width: 50%;
+  height: 90vh !important;
+  background: rgba(86, 86, 86, 0.3);
+  backdrop-filter: blur(10px);
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 5;
+}
+.homepage .c1{
+  color: black;
+  text-align: center;
+  padding: 30px 10px 70px 10px;
+  margin: 0 15px;
+  background-color: greenyellow;
+  border-radius: 20px;
+}
+.homepage h4{
+  font-weight: bold;
+}
+.loading{
+  padding: 50px;
+  align-items: center;
+}
+.swiper{
+  margin-top: 5vh;
+  max-height: 90vh !important;
+}
+.swiper-pagination-bullet-active {
+  background: greenyellow !important;
+}
+:root{
+  --swiper-theme-color: greenyellow!important;
+}
+.c1-icon{
+  font-size: 70px;
+}
+.c1 h4, h6{
+  padding-top: 12px;
+}
+.swipergames .swiper-pagination-bullet{
+  background: whitesmoke !important;
+}
+.product{
+  padding: 0;
+  cursor: pointer;
+}
+.product img{
+  width: 70%;
+}
+.swipergames{
+  margin: 100px 0 150px 0;
+  height: 100%;
+}
+.swipergames img:hover{
+  transform: scale(1.03);
+  transition: 0.2s;
+}
+.swipergames h1{
+  padding-bottom: 30px;
+  font-weight: bold;
+  color: white;
+}
+.swiper-xbox h1{
+  margin-top: 100px ;
+}
+.swiper-pagination-bullet-active{
+  background-color: greenyellow !important;
+}
+.swipergames .swiper-pagination-bullet{
+  background-color: greenyellow !important;
+}
+.psn{
+  min-height: 70vh;
+  overflow-x: hidden;
+}
+.psn-2 .swiper-wrapper{
+  width: 100% !important;
+  margin-left: 150px;
+}
+.psn-2{
+  margin-bottom: 45px;
+  width: 100% !important;
+}
+.psn-2 img{
+  width: 50%;
+  border-radius: 7px;
+}
+.psn h1{
+  font-weight: bold;
+  padding-bottom: 70px;
+  color: white;
+}
+.psn-cntn{
+  padding-bottom: 10%;
 }
 
-a {
-  color: inherit;
-  text-decoration: none;
+.productpage{
+  height: 100vh;
+  background-color: black;
+  color: white;
 }
 
-* {
-  box-sizing: border-box;
+.productpage img{
+  display: flex;
+  width: 45%;
+}
+.prod-p{
+  padding-top: 20%;
+}
+.prod-p h2{
+  font-weight: bold;
+  font-size: 35px;
+  padding-bottom: 40px;
+}
+.prod-p p{
+  font-weight: 500;
+  font-size: 20px;
+}
+.prod-p h1{
+  font-weight: bold;
+  font-size: 45px;
+}
+.prod-p button{
+  padding: 15px 45px;
+  background-color: greenyellow;
+  border-radius: 25px;
+  border: 1px solid black;
+  margin-top: 35px;
+  color: black;
+}
+.prod-p button:hover{
+  background-color: rgb(151, 223, 43);
+}
+
+
+
+.footer{
+  height: 30vh;
+  background-color: greenyellow;
+}
+
+
+
+.foodpage{
+  min-height: 100vh;
+  color: white;
+}
+.foodpage h2{
+  font-size: 60px;
+  color: greenyellow;
+  font-family: 'Yuji Mai', serif;
+  padding-top: 12%;
+}
+.ingredients{
+  padding-top: 4%;
+  padding-bottom: 15%;
+}
+.ingredients h1{
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+.ingredients li{
+  padding-left: 20px;
+}
+.ingredients h3{
+  padding-bottom: 15px;
+  padding-top: 20px;
+}
+.ingredients p{
+  padding-left: 15px;
+}
+.sp2,
+.sp1{
+  max-height: 30vh;
+  max-width: 50vh;
+}
+.food-swiper{
+  padding-top: 4%;
+}
+.food-swiper img{
+  width: 100%;
+}
+
+
+.blog{
+  min-height: 100vh;
+}
+.blog h1{
+  color: greenyellow;
+  font-family: 'Yuji Mai', serif;
+}
+.blog p{
+  margin-top: 40px;
+  color: white;
+}
+.blog img{
+  width: 50%;
+}
+.blog .content{
+  margin-top: 200px;
+}
+.blog .content2{
+  margin-top: 100px;
+  margin-bottom: 200px;
+}
+
+
+
+
+
+
+/*---------responsive-----------*/
+@media (max-width: 993px){
+  .navbar{
+      height: auto;
+  }
+  .navbar-nav a{
+      width: 75px;
+  }
+  .bg-1-1{
+    margin-top: 200px;
+  }
+  .bg-1 h1{
+    font-size: 50px;
+  }
+  .swipergames{
+    margin: 80px 0 130px 0;
+  }
+  .psn-2 .swiper-wrapper{
+    width: 100% !important;
+    margin-left: 120px;
+  }
+  .psn-2-1{
+    margin-top: 70px;
+  }
+  .ingredients{
+    padding-top: 4%;
+    padding-bottom: 15%;
+  }
+  .foodpage h2{
+    padding-top: 20%;
+  }
+  .food-swiper{
+    margin-bottom: 80px;
+  }
+}
+@media (max-width: 730px){
+  .bg-1-1{
+    margin-top: 120px;
+  }
+  .bg-1 h1{
+    font-size: 40px;
+  }
+  .bg-1-btn button{
+    padding: 10px 40px;
+    font-size: 15px;
+  }
+  .swipergames{
+    margin: 60px 0 100px 0;
+  }
+  .psn-cntn{
+    padding-bottom: 12%;
+  }
+  .product img{
+    width: 100%;
+  }
+  .psn-2 .swiper-wrapper{
+    width: 100% !important;
+    margin-left: 100px;
+  }
+  .foodpage h2{
+    padding-top: 23%;
+  }
+}
+@media (max-width: 500px){
+  .bg-1-1{
+    margin-top: 55px;
+  }
+  .bg-1 h1{
+    font-size: 20px;
+  }
+  .bg-1-btn button{
+    padding: 6px 25px;
+    font-size: 12px;
+  }
+  .swipergames{
+    margin: 40px 0 80px 0;
+  }
+  .psn-cntn{
+    padding-bottom: 18%;
+  }
+  .footer h3{
+    font-size: 18px;
+  }
+  .psn-2 .swiper-wrapper{
+    width: 100% !important;
+    margin-left: 50px;
+  }
+  .blog .content{
+    margin-top: 100px;
+  }
+  .blog .content2{
+    margin-top: 0px;
+    margin-bottom: 120px;
+  }
+  .content2 img{
+    margin-top: 50px;
+  }
+  .foodpage h2{
+    padding-top: 25%;
+  }
 }
