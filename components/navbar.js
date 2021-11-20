@@ -10,7 +10,7 @@ const Navbar = () => {
           <Link href='/'>
           <a className="navbar-brand" >Food Make</a>
           </Link> 
-          <button classNameName="navbar-toggler " type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <button className="navbar-toggler " type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <MenuIcon />
           </button>
             <div className="collapse navbar-collapse" id="navbarNav">
